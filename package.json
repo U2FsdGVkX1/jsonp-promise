@@ -1,6 +1,6 @@
 {
   "name": "jsonp-promise",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Jsonp es6 implementation that returns a promise.",
   "main": "index.js",
   "keywords": [
